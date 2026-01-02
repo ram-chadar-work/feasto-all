@@ -77,6 +77,12 @@ Built with an interview-first mindset to showcase **real-world backend and full-
 
 ### Backend
 ```bash
-cd backend
+cd Feasto-be
 mvn clean install
 mvn spring-boot:run
+
+### Frontend
+```bash
+cd Feasto-fe
+npm install
+npm run dev

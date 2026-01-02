@@ -7,7 +7,7 @@ Built with an interview-first mindset to showcase **real-world backend and full-
 
 ---
 
-## 🚀 Quick Highlights (Recruiter View)
+## 🚀 Quick Highlights
 
 - End-to-end food delivery workflow (Customer → Restaurant → Delivery Partner)
 - Clean **Spring Boot + JPA** backend architecture

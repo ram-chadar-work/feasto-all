@@ -82,7 +82,7 @@ mvn clean install
 mvn spring-boot:run
 
 ### Frontend
-```bash
+
 cd Feasto-fe
 npm install
 npm run dev
